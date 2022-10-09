@@ -1,6 +1,6 @@
 ## Projeto Lista 01
 
-WSejam bem vindos ao projeto.
+Sejam bem vindos ao projeto.
 
 ## Exercicio 08
 
